@@ -1,0 +1,5 @@
+.lead__image_bacground {
+  background: #000000;
+  mix-blend-mode: hue;
+  z-index: 1;
+}
