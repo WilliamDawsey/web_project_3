@@ -13,11 +13,13 @@
     width: 100%;
     max-width: 720px;
     margin: 10px 24px 0;
+    padding: 0;
   }
 }
 @media screen and (max-width: 400px) {
   .intro__quote-author {
     max-width: 288px;
     margin: 10px 16px 0;
+    padding: 0;
   }
 }

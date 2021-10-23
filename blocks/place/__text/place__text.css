@@ -4,16 +4,16 @@
   padding: 0;
 }
 
-@media screen and (min-width: 600px) and (max-width: 800px) {
+@media screen and (min-width: 500px) and (max-width: 800px) {
   .place__text {
     max-width: 352px;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
   .place__text {
     max-width: 288px;
     padding: 32px 16px 30px;
-    margin: 0;
+    margin: 0 auto;
   }
 }
