@@ -16,12 +16,12 @@
   margin-top: 0;
 }
 
-@media screen and (min-width: 700px) and (max-width: 800px) {
+@media screen and (max-width: 1024px) {
   .place {
     grid-gap: 48px 28px;
     grid-template-columns: 340px 1fr;
     max-width: 720px;
-    margin: 0 auto;
+    margin: 72 auto 0;
   }
   .place:first-child {
     margin-top: 0;
@@ -29,7 +29,7 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 544px) {
   .place {
     grid-gap: 0;
     grid-template-columns: 320px;
@@ -44,6 +44,5 @@
   }
   .place:first-child {
     margin-top: 0;
-    padding: 0;
   }
 }

@@ -7,6 +7,7 @@
   background-image: url(../../images/__background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   min-height: 740px;
   max-width: 1184px;
   width: 100%;
@@ -30,14 +31,14 @@
   opacity: 0.8;
 }
 
-@media screen and (min-width: 500px) and (max-width: 800px) {
+@media screen and (max-width: 1024px) {
   .cover {
     min-height: 746px;
-    margin: 88px 0;
+    margin: 92px 0;
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 544px) {
   .cover {
     min-height: 254px;
     margin: 64px 0;

@@ -10,20 +10,18 @@
   margin-right: auto;
 }
 
-@media screen and (min-width: 500px) and (max-width: 800px) {
+@media screen and (max-width: 1210px) {
   .photo-grid {
     grid-template-columns: repeat(2, 1fr);
     max-width: 720px;
     margin-top: 88px;
-    padding: 0;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 544px) {
   .photo-grid {
     display: flex;
     flex-direction: column;
     max-width: 288px;
-    padding: 0;
     margin: 90px 16px 0;
   }
 }

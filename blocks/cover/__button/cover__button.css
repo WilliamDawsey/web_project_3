@@ -1,0 +1,9 @@
+.cover__button {
+  padding: 13px 20px;
+}
+
+@media screen and (max-width: 544px) {
+  .cover__button {
+    margin-bottom: 45px;
+  }
+}

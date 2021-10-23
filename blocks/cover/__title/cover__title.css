@@ -2,10 +2,14 @@
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
+  text-align: center;
+  margin: 0 auto;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 544px) {
   .cover__title {
+    font-size: 32px;
+    line-height: 35px;
     margin-bottom: 0px;
   }
 }

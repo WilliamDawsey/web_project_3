@@ -8,7 +8,7 @@
   width: 90%;
   max-width: 690px;
 }
-@media screen and (min-width: 400px) and (max-width: 800px) {
+@media screen and (max-width: 1024px) {
   .intro__quote-author {
     width: 100%;
     max-width: 720px;
@@ -16,7 +16,7 @@
     padding: 0;
   }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 760px) {
   .intro__quote-author {
     max-width: 288px;
     margin: 10px 16px 0;

@@ -7,12 +7,12 @@
   object-fit: contain;
 }
 
-@media screen and (min-width: 500px) and (max-width: 800px) {
+@media screen and (max-width: 1024px) {
   .place__image {
     max-width: 340px;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 544px) {
   .place__image {
     max-width: 320px;
   }

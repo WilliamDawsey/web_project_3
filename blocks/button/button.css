@@ -16,13 +16,10 @@
   background: #0063d2;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 544px) {
   .button {
     margin: 0 auto;
     padding: 13px 40px;
     max-width: 288px;
-  }
-  .button:last-of-type {
-    margin-bottom: 45px;
   }
 }
