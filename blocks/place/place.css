@@ -21,7 +21,7 @@
     grid-gap: 48px 28px;
     grid-template-columns: 340px 1fr;
     max-width: 720px;
-    margin: 72 auto 0;
+    margin: 72px auto 0;
   }
   .place:first-child {
     margin-top: 0;

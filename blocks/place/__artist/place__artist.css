@@ -3,8 +3,8 @@
   align-self: flex-end;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 544px) {
   .place__artist {
-    margin: 30px 16px 30px 16px;
+    margin: 30px 16px;
   }
 }
