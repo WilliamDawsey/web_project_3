@@ -1,0 +1,10 @@
+.page {
+  background-color: #2a2c2f;
+  color: #ffffff;
+  font-weight: 400;
+  font-family: Inter, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-content: center;
+}

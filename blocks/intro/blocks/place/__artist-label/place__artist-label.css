@@ -1,0 +1,17 @@
+.place__artist-label {
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  margin: 0;
+  padding-bottom: 8px;
+}
+
+@media screen and (max-width: 544px) {
+  .place__artist-label {
+    line-height: 12px;
+    letter-spacing: 0.2em;
+    padding-bottom: 12px;
+  }
+}

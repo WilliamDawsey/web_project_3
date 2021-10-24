@@ -1,0 +1,10 @@
+.place__artist {
+  grid-area: artist;
+  align-self: flex-end;
+}
+
+@media screen and (max-width: 544px) {
+  .place__artist {
+    margin: 30px 16px;
+  }
+}
