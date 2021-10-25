@@ -12,9 +12,9 @@
     margin: 32px 24px 0;
   }
 }
-@media screen and (max-width: 244px) {
+@media screen and (max-width: 544px) {
   .intro__text {
     max-width: 288px;
-    margin: 32px 16px 0;
+    margin: 32px auto 0;
   }
 }
